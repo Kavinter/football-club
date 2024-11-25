@@ -1,0 +1,11 @@
+Matheus|Donelli|Golman|Brazil|28|189cm|83kg|matheus
+Jafar|Younesi|Bek|Iran|20|163cm|61kg|jafar
+Juan|Borja|Stoper|Kolumbija|22|186cm|80kg|juan
+Olivio|Mendes|Stoper|Brazil|23|181cm|79kg|olivio
+Thomas|Sogaard|Bek|Danska|21|183cm|77kg|thomas
+Ivan|Ilic|Vezni|Srbija|29|183cm|75kg|ivan
+Yangel|Herrera|Vezni|Venecuela|32|183cm|74kg|yangel
+Abdallah|Sima|Krilo|Senegal|28|188cm|73kg|abdallah
+Koen|Stolker|Ofanzivni vezni|Holandija|24|189cm|85kg|koen
+Matias|Vargas|Krilo|Argentina|33|168cm|65kg|matias
+Gleison|Wilson|Spic|Brazil|23|192cm|84kg|gleison

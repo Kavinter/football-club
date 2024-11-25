@@ -1,0 +1,11 @@
+7.0|0|1|6|matheus
+6.83|1|5|5|jafar
+7.3|0|0|6|juan
+7.19|2|0|5|olivio
+6.99|0|4|0|thomas
+7.01|0|4|0|ivan
+6.81|3|5|0|yangel
+6.88|4|6|0|abdallah
+6.82|5|5|0|koen
+6.88|7|5|0|matias
+7.41|13|3|0|gleison
