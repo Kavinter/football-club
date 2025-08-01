@@ -1,4 +1,4 @@
-# Feyenoord Rotterdam Football Club - Management System
+# Football Club - Management System
 
 This project enables the management of the **Feyenoord Rotterdam** football club through a command-line interface. The system allows managers and coaches to access and interact with player data, statistics, and manage club staff.
 
